@@ -206,3 +206,7 @@ If this value is true, anonymous user can use relumin as VIEWER role.
 * Single Page Application.
 * Written by pure javascript.
 * Based on React(Flux), Webpack and Gulp.
+
+**TEST by wls**
+
+* test @ 20190308
